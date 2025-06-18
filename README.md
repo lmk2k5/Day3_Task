@@ -39,16 +39,23 @@ Classes Explanation:
 Attached images:
 =
 Collection that are made
+
 ![all_collections.png](all_collections.png)
 
 ![courses.png](courses.png)
+
 ![mraju_ref_change.png](mraju_ref_change.png)
--pixy is changer to "larry"
+
+-pixy is changed to "larry" in the student document
 ![emb_larry_change.png](emb_larry_change.png)
+
 -but in enrollment collection the name is still "Pixy" this is beacause Embedded does not stay consistent
 ![emb_bef.png](emb_bef.png)
+
 -raju is changed to mraju in the student document
 ![emb_larry_no_change.png](emb_larry_no_change.png)
+
 ![raju_ref_change.png](raju_ref_change.png)
+
 -Printed Query+updated raju to mraju 
 ![printed_queries.png](printed_queries.png)
