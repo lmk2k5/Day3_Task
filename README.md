@@ -21,7 +21,9 @@ Uploaded the code to GitHub with the name Day3-Task
 2. Added two types of enrollments (embedded and referenced).
 3. Queried and printed both types with full details.
 4. Updated a student's name and mention the difference between updating a referenced document compared to embedded.
-5. Created indexes for querying the students
+> When a student's details are **copied inside the enrollment**, changing their name later **won't update** the enrollment.  
+> But if the enrollment only **links to the student**, the updated name will **show up automatically** when you view it.
+6. Created indexes for querying the students
 
 Classes Explanation:
 =
