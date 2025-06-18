@@ -42,7 +42,6 @@ Collection that are made
 ![all_collections.png](all_collections.png)
 
 ![courses.png](courses.png)
--pixy is changer to "larry"
 ![mraju_ref_change.png](mraju_ref_change.png)
 -pixy is changer to "larry"
 ![emb_larry_change.png](emb_larry_change.png)
